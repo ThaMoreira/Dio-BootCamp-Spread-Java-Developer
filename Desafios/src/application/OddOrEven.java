@@ -27,7 +27,7 @@ public class OddOrEven {
 				System.out.println("NULL");
 			}
 		
-
+			leitor.close();
 		}
 	}
 
